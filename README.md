@@ -1,9 +1,9 @@
 # Dual-pairs-of-Lagrangians
 
-Isotropic Subspace Analysis over GF(3)
+# Isotropic Subspace Analysis over GF(3)
 This SageMath script performs an analysis of 3-dimensional Lagrangian subspaces within a 6-dimensional vector space over the finite field GF(3), using a specified bilinear form.
 
-Details:
+# Details:
 Identifies all 3D isotropic subspaces under a diagonal bilinear form.
 Finds dual pairs of isotropic subspaces with trivial intersection, which is equivalent to pairs of isotropic subspaces which are paired by the bilinear form in a non-singular way.
 Computes determinant vectors for each subspace based on all 3×3 column combinations, in lexicographic order.
